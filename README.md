@@ -320,6 +320,33 @@ echo "Open-source enterprise tool contributions"
 
 ---
 
+<h2 align="center">Featured Repositories</h2>
+
+<div align="center">
+
+<a href="https://github.com/ShivrajRajasekaran/AI-Driven-Banking-Fraud-Detection-and-Prevention-System">
+<img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=ShivrajRajasekaran&repo=AI-Driven-Banking-Fraud-Detection-and-Prevention-System&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00FF41&icon_color=00FF41&text_color=c9d1d9" />
+</a>
+<a href="https://github.com/ShivrajRajasekaran/Enterprise-Workflow-Choreographer">
+<img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=ShivrajRajasekaran&repo=Enterprise-Workflow-Choreographer&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00FF41&icon_color=00FF41&text_color=c9d1d9" />
+</a>
+<a href="https://github.com/ShivrajRajasekaran/V-Inference-Verifiable-Inference-Network-">
+<img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=ShivrajRajasekaran&repo=V-Inference-Verifiable-Inference-Network-&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00FF41&icon_color=00FF41&text_color=c9d1d9" />
+</a>
+<a href="https://github.com/ShivrajRajasekaran/Master-ForexTrader-MCP">
+<img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=ShivrajRajasekaran&repo=Master-ForexTrader-MCP&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00FF41&icon_color=00FF41&text_color=c9d1d9" />
+</a>
+<a href="https://github.com/ShivrajRajasekaran/NSE-AI-Trading">
+<img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=ShivrajRajasekaran&repo=NSE-AI-Trading&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00FF41&icon_color=00FF41&text_color=c9d1d9" />
+</a>
+<a href="https://github.com/ShivrajRajasekaran/Hackathon-An-Intelligent-Enterprise-Assistant-for-public-sector-SIH-1706-">
+<img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=ShivrajRajasekaran&repo=Hackathon-An-Intelligent-Enterprise-Assistant-for-public-sector-SIH-1706-&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00FF41&icon_color=00FF41&text_color=c9d1d9" />
+</a>
+
+</div>
+
+---
+
 <h2 align="center">Activity</h2>
 
 <div align="center">
