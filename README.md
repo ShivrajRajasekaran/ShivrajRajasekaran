@@ -1,15 +1,15 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:003d66,100:00F7FF&height=180&section=header&text=SHIVRAJ&fontSize=75&fontColor=ffffff&fontAlignY=32&desc=Enterprise%20Systems%20%20%E2%80%A2%20%20Cybersecurity%20%20%E2%80%A2%20%20Mainframe%20Engineering&descSize=16&descColor=c9d1d9&descAlignY=55" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:003300,100:00FF41&height=180&section=header&text=SHIVRAJ&fontSize=75&fontColor=ffffff&fontAlignY=32&desc=Enterprise%20Systems%20%20%E2%80%A2%20%20Cybersecurity%20%20%E2%80%A2%20%20Mainframe%20Engineering&descSize=16&descColor=c9d1d9&descAlignY=55" width="100%" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1500&color=00F7FF&center=true&vCenter=true&repeat=true&width=600&height=35&lines=%5BSYSTEM%5D+IBM+Z+Student+Ambassador;%5BRECORD%5D+Datathon+Winner+%E2%80%94+Global+3rd+%7C+National+2nd;%5BSTATUS%5D+Building+What+Others+Depend+On" alt="Typing" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1500&color=00FF41&center=true&vCenter=true&repeat=true&width=600&height=35&lines=%5BSYSTEM%5D+IBM+Z+Student+Ambassador;%5BRECORD%5D+Datathon+Winner+%E2%80%94+Global+3rd+%7C+National+2nd;%5BSTATUS%5D+Building+What+Others+Depend+On" alt="Typing" />
 
 <br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shivraj-r-18008b290/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-00F7FF?style=for-the-badge&logo=firefoxbrowser&logoColor=0d1117)](https://portfolio-shivraj.web.app/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-00FF41?style=for-the-badge&logo=firefoxbrowser&logoColor=0d1117)](https://portfolio-shivraj.web.app/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rshivrajrajasekaran@gmail.com)
-[![Visitors](https://komarev.com/ghpvc/?username=ShivrajRajasekaran&style=for-the-badge&color=00F7FF&label=VISITORS)](https://github.com/ShivrajRajasekaran)
+[![Visitors](https://komarev.com/ghpvc/?username=ShivrajRajasekaran&style=for-the-badge&color=00FF41&label=VISITORS)](https://github.com/ShivrajRajasekaran)
 
 </div>
 
@@ -324,11 +324,11 @@ echo "Open-source enterprise tool contributions"
 
 <div align="center">
 
-<img width="80%" src="https://streak-stats.demolab.com?user=ShivrajRajasekaran&hide_border=true&border_radius=8&background=0D1117&ring=00F7FF&fire=00F7FF&currStreakLabel=00F7FF&sideLabels=c9d1d9&dates=555555&currStreakNum=c9d1d9&sideNums=c9d1d9" alt="Streak" />
+<img width="80%" src="https://streak-stats.demolab.com?user=ShivrajRajasekaran&hide_border=true&border_radius=8&background=0D1117&ring=00FF41&fire=00FF41&currStreakLabel=00FF41&sideLabels=c9d1d9&dates=555555&currStreakNum=c9d1d9&sideNums=c9d1d9" alt="Streak" />
 
 <br/><br/>
 
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=ShivrajRajasekaran&bg_color=0d1117&color=00F7FF&line=00F7FF&point=FFFFFF&area=true&area_color=00F7FF&hide_border=true&custom_title=Contribution%20Activity" alt="Activity Graph" />
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=ShivrajRajasekaran&bg_color=0d1117&color=00FF41&line=00FF41&point=FFFFFF&area=true&area_color=00FF41&hide_border=true&custom_title=Contribution%20Activity" alt="Activity Graph" />
 
 </div>
 
@@ -336,7 +336,7 @@ echo "Open-source enterprise tool contributions"
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=4000&pause=3000&color=00F7FF&center=true&vCenter=true&repeat=true&width=550&height=30&lines=Proof+over+polish.+Depth+over+breadth.+Impact+over+noise." alt="motto" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=4000&pause=3000&color=00FF41&center=true&vCenter=true&repeat=true&width=550&height=30&lines=Proof+over+polish.+Depth+over+breadth.+Impact+over+noise." alt="motto" />
 
 <br/><br/>
 
@@ -346,7 +346,7 @@ echo "Open-source enterprise tool contributions"
 
 [![Connect](https://img.shields.io/badge/Let's_Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shivraj-r-18008b290/)
 &nbsp;
-[![Portfolio](https://img.shields.io/badge/Portfolio-00F7FF?style=for-the-badge&logo=firefoxbrowser&logoColor=0d1117)](https://portfolio-shivraj.web.app/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-00FF41?style=for-the-badge&logo=firefoxbrowser&logoColor=0d1117)](https://portfolio-shivraj.web.app/)
 &nbsp;
 [![Email](https://img.shields.io/badge/Get_In_Touch-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rshivrajrajasekaran@gmail.com)
 
@@ -354,4 +354,4 @@ echo "Open-source enterprise tool contributions"
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,50:003d66,100:0d1117&height=100&section=footer" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00FF41,50:003300,100:0d1117&height=100&section=footer" width="100%" />
