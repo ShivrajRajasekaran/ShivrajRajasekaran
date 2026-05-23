@@ -336,8 +336,8 @@ echo "Open-source enterprise tool contributions"
 <a href="https://github.com/ShivrajRajasekaran/Master-ForexTrader-MCP">
 <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=ShivrajRajasekaran&repo=Master-ForexTrader-MCP&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00FF41&icon_color=00FF41&text_color=c9d1d9" />
 </a>
-<a href="https://github.com/ShivrajRajasekaran/NSE-AI-Trading">
-<img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=ShivrajRajasekaran&repo=NSE-AI-Trading&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00FF41&icon_color=00FF41&text_color=c9d1d9" />
+<a href="https://github.com/ShivrajRajasekaran/AI-Powered-Heart-MRI-Classification-for-Clinical-Decision-Support">
+<img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=ShivrajRajasekaran&repo=AI-Powered-Heart-MRI-Classification-for-Clinical-Decision-Support&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00FF41&icon_color=00FF41&text_color=c9d1d9" />
 </a>
 <a href="https://github.com/ShivrajRajasekaran/Hackathon-An-Intelligent-Enterprise-Assistant-for-public-sector-SIH-1706-">
 <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=ShivrajRajasekaran&repo=Hackathon-An-Intelligent-Enterprise-Assistant-for-public-sector-SIH-1706-&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00FF41&icon_color=00FF41&text_color=c9d1d9" />
