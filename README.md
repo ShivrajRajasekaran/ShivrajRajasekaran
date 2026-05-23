@@ -1,48 +1,66 @@
 <div align="center">
 
-<!-- ANIMATED HEADER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:003366,100:00F7FF&height=220&section=header&text=SHIVRAJ&fontSize=80&fontColor=00F7FF&fontAlignY=35&desc=Mainframe%20Systems%20%E2%80%A2%20Cybersecurity%20%E2%80%A2%20Enterprise%20Architecture&descSize=18&descColor=c9d1d9&descAlignY=55&animation=fadeIn" width="100%" alt="Header" />
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0d1117,50:001a33,100:00F7FF&height=200&section=header&text=SHIVRAJ&fontSize=90&fontColor=00F7FF&fontAlignY=40&stroke=003366&strokeWidth=2&animation=twinkling" width="100%" />
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1500&color=00F7FF&center=true&vCenter=true&repeat=true&width=700&height=40&lines=IBM+Z+Student+Ambassador+%7C+Datathon+Winner+%7C+Builder;Enterprise+Systems+%E2%80%94+Where+Failure+Is+Not+An+Option" alt="Typing" />
-
-<br/>
-
-<!-- TERMINAL WHOAMI -->
-```
-┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓
-┃                                                                              ┃
-┃   $ whoami                                                                   ┃
-┃                                                                              ┃
-┃   NAME        Shivraj R                                                      ┃
-┃   ROLE        B.E. CSE (IoT) · Saveetha Engineering College · 2023–2027     ┃
-┃   LOCATION    Chennai, Tamil Nadu 🇮🇳                                         ┃
-┃   FOCUS       IBM Z Mainframes · Cybersecurity · Blockchain · Simulations    ┃
-┃   DIRECTION   Mainframe Modernization · Enterprise Security · Secure Infra   ┃
-┃   STATUS      IBM Z Ambassador · VP, Z Tech Hub · Your Big Year Fellow       ┃
-┃                                                                              ┃
-┃   RECORD      🏆 IBM Z Datathon 2024 — 3rd GLOBAL (Team Vajra)              ┃
-┃               🏆 IBM Z Datathon 2025 — 2nd NATIONAL                          ┃
-┃               🎖️  IBM Bangalore Lab — Invited (ISDL + Power Systems)          ┃
-┃                                                                              ┃
-┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛
-```
-
-<br/>
-
-<!-- BADGES -->
-[![GitHub](https://img.shields.io/badge/GitHub-ShivrajRajasekaran-181717?style=for-the-badge&logo=github)](https://github.com/ShivrajRajasekaran)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shivraj-r-18008b290/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-00F7FF?style=for-the-badge&logo=firefoxbrowser&logoColor=white)](https://portfolio-shivraj.web.app/)
-[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rshivrajrajasekaran@gmail.com)
-[![Views](https://komarev.com/ghpvc/?username=ShivrajRajasekaran&style=for-the-badge&color=00F7FF&label=VISITORS)](https://github.com/ShivrajRajasekaran)
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2500&pause=1000&color=00F7FF&center=true&vCenter=true&repeat=true&width=800&height=45&lines=%5B+SYSTEM+ONLINE+%5D+Enterprise+Systems+Engineer;%5B+CLEARANCE+%5D+IBM+Z+Student+Ambassador;%5B+RECORD+%5D+Datathon+Winner+%7C+Lab-Certified+%7C+Fellowship+Holder;%5B+STATUS+%5D+Building+What+Others+Depend+On" alt="Typing" />
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+<br/>
 
-## The Story
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/-%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shivraj-r-18008b290/)
+[![Portfolio](https://img.shields.io/badge/-%20Portfolio-00F7FF?style=for-the-badge&logo=firefoxbrowser&logoColor=0d1117)](https://portfolio-shivraj.web.app/)
+[![Email](https://img.shields.io/badge/-%20Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rshivrajrajasekaran@gmail.com)
+[![GitHub](https://img.shields.io/badge/-%20GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ShivrajRajasekaran)
+
+</div>
+
+<br/>
+
+<!-- ═══════════════════════════════════════════════════════ -->
+
+<details open>
+<summary><h2>📡 System Identification</h2></summary>
+
+```js
+const shivraj = {
+    identity: {
+        name:       "Shivraj R",
+        degree:     "B.E. Computer Science & Engineering (IoT)",
+        institute:  "Saveetha Engineering College",
+        timeline:   "2023 — 2027",
+        location:   "Chennai, Tamil Nadu 🇮🇳",
+    },
+    
+    clearance: [
+        "IBM Z Student Ambassador",
+        "Vice President — Z Tech Enterprise Hub",
+        "Your Big Year Fellow (2025)",
+        "IBM Mentee (Bengaluru)",
+    ],
+    
+    combat_record: {
+        "IBM Z Datathon 2024": "🥉 3rd Place GLOBALLY — Team Vajra",
+        "IBM Z Datathon 2025": "🥈 2nd Place NATIONALLY — Chennai",
+        "IBM Bangalore Lab":   "🎖️ Invited · ISDL · Power Systems · HA Architecture",
+    },
+    
+    directive: "I build systems where failure is not an option.",
+};
+```
+
+</details>
+
+<!-- ═══════════════════════════════════════════════════════ -->
+
+<details open>
+<summary><h2>📖 The Story</h2></summary>
+
+<br/>
 
 I didn't start with a plan. I started with curiosity — pulling systems apart to see how they worked, then figuring out how to put them back together stronger.
 
@@ -54,185 +72,262 @@ Between competitions, I built: **blockchain systems** for fraud prevention, **Un
 
 I'm not trying to be everything. I'm building toward one thing: **engineering systems where failure is not an option** — and having the technical depth, leadership experience, and competition record to prove I belong there.
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+</details>
 
-## What I Build
+<!-- ═══════════════════════════════════════════════════════ -->
+
+<details open>
+<summary><h2>⚡ Operational Domains</h2></summary>
+
+<br/>
 
 <table>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
-### 🖥️ Mainframe & Enterprise Systems
+```yaml
+# ═══ MAINFRAME & ENTERPRISE ═══
+systems:
+  - z/OS
+  - COBOL
+  - JCL
+  - VSAM
+  - USS
+  - Zowe CLI
+  - IBM Db2
+  - Watson X
+  - Assembler
+  - ISDL
+  
+mission: |
+  Enterprise systems that process 
+  30 billion transactions per day.
+  Banks, airlines, governments.
+  Zero downtime. That's the standard.
 ```
-z/OS · COBOL · JCL · VSAM · USS
-Zowe CLI · Assembler · IBM Db2
-Watson X · Cloud Object Storage
-ISDL · Mainframe Modernization
-```
-The systems that process **30 billion transactions per day**. I'm learning to build, secure, and modernize them.
 
 </td>
-<td width="50%">
+<td width="50%" valign="top">
 
-### 🔐 Cybersecurity & IoT Security
+```yaml
+# ═══ CYBERSECURITY & IoT ═══
+capabilities:
+  - Penetration Testing
+  - Network Security
+  - IoT Exploitation
+  - WiFi Deauth Attacks
+  - SQL Injection
+  - Threat Modeling
+  - MQTT Security
+  - Ethical Hacking
+
+training_grounds:
+  - TryHackMe
+  - HackTheBox
+  - CTF Competitions
 ```
-Penetration Testing · Network Security
-IoT Exploitation · WiFi Deauth Attacks
-SQL Injection · Threat Modeling
-TryHackMe · HackTheBox · CTFs
-Ethical Hacking · MQTT Security
-```
-Thinking like both the attacker and the defender. Understanding failure modes before they become breaches.
 
 </td>
 </tr>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
-### ⛓️ Blockchain & Trust Systems
+```yaml
+# ═══ BLOCKCHAIN & TRUST ═══
+stack:
+  - Solidity
+  - Polygon (Mumbai Testnet)
+  - Hardhat
+  - Metamask
+  - Alchemy
+  - Smart Contracts
+
+principle: |
+  Trust should be cryptographic,
+  not assumed. Fraud prevention,
+  supply chain integrity,
+  immutable verification.
 ```
-Solidity · Polygon · Hardhat
-Metamask · Alchemy · Smart Contracts
-DApp Architecture · Immutable Records
-```
-Building systems where trust is cryptographic, not assumed. Fraud prevention, credential verification, supply chain integrity.
 
 </td>
-<td width="50%">
+<td width="50%" valign="top">
 
-### 🎮 Unity Simulations & EdTech
+```yaml
+# ═══ SIMULATION & EDTECH ═══
+engine: Unity 2D/3D
+language: C#
+domains:
+  - Educational Gamification
+  - Medical Visualization
+  - Atom Construction
+  - Blood Flow Dynamics
+  - Physics-based Interaction
+
+philosophy: |
+  If it's hard to explain on paper,
+  make it something you can see,
+  build, and interact with.
 ```
-Unity 2D/3D · C# · Physics Engines
-Educational Gamification · Medical Viz
-Atom Building · Blood Flow Dynamics
-Interactive Learning Systems
-```
-Taking concepts that are hard to explain on paper and making them something you can see, interact with, and understand.
 
 </td>
 </tr>
 </table>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+</details>
 
-## Technical Stack
+<!-- ═══════════════════════════════════════════════════════ -->
+
+<details open>
+<summary><h2>🛠️ Technical Arsenal</h2></summary>
+
+<br/>
 
 <div align="center">
 
-### `Mainframe / IBM Z`
+<table>
+<tr>
+<td align="center" width="14%"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/><br/><sub>Python</sub></td>
+<td align="center" width="14%"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40"/><br/><sub>C</sub></td>
+<td align="center" width="14%"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="40"/><br/><sub>C#</sub></td>
+<td align="center" width="14%"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40"/><br/><sub>Java</sub></td>
+<td align="center" width="14%"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40"/><br/><sub>JavaScript</sub></td>
+<td align="center" width="14%"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/solidity/solidity-original.svg" width="40"/><br/><sub>Solidity</sub></td>
+<td align="center" width="14%"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40"/><br/><sub>HTML</sub></td>
+</tr>
+<tr>
+<td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40"/><br/><sub>CSS</sub></td>
+<td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40"/><br/><sub>Linux</sub></td>
+<td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" width="40"/><br/><sub>Unity</sub></td>
+<td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40"/><br/><sub>Git</sub></td>
+<td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40"/><br/><sub>Docker</sub></td>
+<td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" width="40"/><br/><sub>Raspberry Pi</sub></td>
+<td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" width="40"/><br/><sub>Arduino</sub></td>
+</tr>
+</table>
+
+<br/>
+
+**Enterprise & Security Stack**
+
 ![z/OS](https://img.shields.io/badge/z%2FOS-054ADA?style=for-the-badge&logo=ibm&logoColor=white)
 ![COBOL](https://img.shields.io/badge/COBOL-054ADA?style=for-the-badge&logo=ibm&logoColor=white)
 ![JCL](https://img.shields.io/badge/JCL-054ADA?style=for-the-badge&logo=ibm&logoColor=white)
 ![VSAM](https://img.shields.io/badge/VSAM-054ADA?style=for-the-badge&logo=ibm&logoColor=white)
-![Zowe](https://img.shields.io/badge/Zowe_CLI-054ADA?style=for-the-badge&logo=ibm&logoColor=white)
+![Zowe](https://img.shields.io/badge/Zowe-054ADA?style=for-the-badge&logo=ibm&logoColor=white)
 ![Db2](https://img.shields.io/badge/Db2-054ADA?style=for-the-badge&logo=ibm&logoColor=white)
 ![Watson X](https://img.shields.io/badge/Watson_X-BE95FF?style=for-the-badge&logo=ibm&logoColor=white)
-
-### `Programming Languages`
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
-
-### `Cybersecurity`
-![Kali](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
+![Kali](https://img.shields.io/badge/Kali-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
-![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white)
-![Nmap](https://img.shields.io/badge/Nmap-0E83CD?style=for-the-badge&logo=nmap&logoColor=white)
-
-### `Blockchain / Web3`
+![Burp Suite](https://img.shields.io/badge/Burp-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white)
 ![Polygon](https://img.shields.io/badge/Polygon-8247E5?style=for-the-badge&logo=polygon&logoColor=white)
 ![Hardhat](https://img.shields.io/badge/Hardhat-FFF100?style=for-the-badge&logo=hardhat&logoColor=black)
 ![Metamask](https://img.shields.io/badge/Metamask-E2761B?style=for-the-badge&logo=metamask&logoColor=white)
 
-### `Tools & Platforms`
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Raspberry Pi](https://img.shields.io/badge/RPi-C51A4A?style=for-the-badge&logo=raspberrypi&logoColor=white)
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
-
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+</details>
 
-## Featured Projects
+<!-- ═══════════════════════════════════════════════════════ -->
+
+<details open>
+<summary><h2>🚀 Mission Log — Projects</h2></summary>
+
+<br/>
 
 <table>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
 ### ⛓️ Insurance Fraud Prevention
-**Blockchain-based trust infrastructure**
 
-Smart contracts on Polygon Mumbai detect and prevent fraudulent insurance claims. Immutable on-chain records make tampering impossible while keeping verification instant.
+```
+TYPE     : Blockchain Trust Infrastructure
+NETWORK  : Polygon Mumbai Testnet
+STACK    : Solidity · Hardhat · Alchemy · Metamask
+STATUS   : Operational
+```
 
-`Solidity` · `Hardhat` · `Alchemy` · `Metamask` · `Polygon`
+Smart contracts that make fraudulent insurance claims mathematically impossible. Immutable on-chain verification where tampering = detection.
 
-> Real-world fraud costs billions annually. This proves blockchain isn't just hype — it's an enforcement mechanism.
+**Outcome:** Proves blockchain as an enforcement mechanism, not just hype.
 
 </td>
-<td width="50%">
+<td width="50%" valign="top">
 
 ### 🧪 Chemistry Atom Builder
-**Unity 2D educational simulation**
 
-Players drag protons and neutrons to construct stable atoms, learning atomic structure through hands-on gameplay. Correct builds unlock elements on a dynamic periodic table.
+```
+TYPE     : Unity 2D Educational Simulation
+ENGINE   : Unity · C# · Physics2D
+INPUT    : Drag protons & neutrons
+OUTPUT   : Stable atoms → Periodic table unlock
+STATUS   : Operational
+```
 
-`Unity` · `C#` · `Physics2D` · `Game Design`
+Gamified atomic structure learning where building correct atoms progresses through the periodic table.
 
-> Abstract science becomes tangible when you can build it with your hands.
+**Outcome:** Abstract science becomes tangible through play.
 
 </td>
 </tr>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
 ### 🩸 Blood Flow Visualization
-**Unity 3D medical simulation**
 
-Real-time 3D rendering of blood cells traveling through veins via spline paths. Rotating RBCs, pulsing flow dynamics, and user-controlled camera for exploration.
+```
+TYPE     : Unity 3D Medical Simulation
+ENGINE   : Unity 3D · C# · Spline Paths
+FEATURES : Rotating RBCs · Flow dynamics · Camera control
+TARGET   : Medical education
+STATUS   : Operational
+```
 
-`Unity 3D` · `C#` · `Spline Paths` · `Shaders`
+Real-time circulatory system rendering — blood cells navigating veins with physics-accurate motion.
 
-> Medical students can observe circulatory mechanics without a cadaver lab.
+**Outcome:** Medical students observe what was previously only in textbooks.
 
 </td>
-<td width="50%">
+<td width="50%" valign="top">
 
-### 🖥️ IBM Z Mainframe Systems
-**Enterprise development & automation**
+### 🖥️ IBM Z Enterprise Systems
 
-COBOL programs, JCL job streams, VSAM file operations, and z/OS workflow automation — built through IBM zXplore, Datathon competitions, and lab environments.
+```
+TYPE     : Mainframe Development & Automation
+STACK    : COBOL · JCL · VSAM · z/OS · Zowe CLI
+CONTEXT  : zXplore + Datathon + Lab
+VERIFIED : Competition-tested
+STATUS   : Active development
+```
 
-`COBOL` · `JCL` · `VSAM` · `z/OS` · `Zowe CLI`
+Enterprise-grade mainframe work through IBM programs, global competitions, and lab environments.
 
-> Not tutorial completions. Competition-tested, lab-verified enterprise work.
+**Outcome:** Not tutorial completions — competition-proven, lab-verified work.
 
 </td>
 </tr>
 </table>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+</details>
 
-## IBM Z Journey
+<!-- ═══════════════════════════════════════════════════════ -->
+
+<details open>
+<summary><h2>📡 Growth Signal — IBM Z Timeline</h2></summary>
+
+<br/>
 
 ```mermaid
 timeline
-    title From Curiosity to Competition-Proven
+    title PROGRESSION — From Curiosity to Competition-Proven
     2023 : IBM zXplore Concepts Badge
          : IBM zXplore Advanced Badge
-         : Completed PDS1, PDS2, JCL2, USS2, COBOL, VSAM, Zowe CLI, Assembler
-         : First exposure to enterprise mainframe architecture
+         : Modules — PDS1, PDS2, JCL2, USS2, COBOL, VSAM, Zowe CLI, Assembler
+         : First enterprise mainframe exposure
     2024 : IBM Z Datathon — 3rd Place GLOBALLY (Team Vajra)
          : Invited to IBM Bangalore Lab
-         : Hands-on with ISDL, Power Systems, HA architecture
-         : Cybersecurity Internship at Arjun Vision Tech
+         : Hands-on ISDL, Power Systems, HA architecture
+         : Cybersecurity Internship (Arjun Vision Tech)
     2025 : IBM Z Datathon — 2nd Place NATIONAL (Chennai)
          : IBM Z Student Ambassador
          : VP — Z Tech Enterprise Hub
@@ -241,111 +336,158 @@ timeline
          : Your Big Year Fellowship
 ```
 
-<div align="center">
+</details>
 
-| 🏆 Achievement | Details |
-|:---|:---|
-| **IBM Z Datathon 2024** | 3rd Place Globally · Team Vajra · Real enterprise problem |
-| **IBM Bangalore Lab** | Invited post-win · ISDL · Power Systems · HA Architecture |
-| **IBM Z Datathon 2025** | 2nd Place National · Chennai |
-| **IBM Z Student Ambassador** | Representing IBM Z · Mentoring 200+ students |
-| **VP, Z Tech Enterprise Hub** | Built college mainframe community from scratch |
-| **TechXchange Panelist** | Spoke on mainframe relevance & student pathways |
-| **Your Big Year Fellowship** | Selected for leadership & professional growth |
-| **IBM Mentee Program** | Bengaluru · Direct enterprise computing mentorship |
-| **Cybersecurity Internship** | Arjun Vision Tech · IoT Security · WiFi Deauth |
+<!-- ═══════════════════════════════════════════════════════ -->
 
-</div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-## Leadership & Community
-
-<div align="center">
-
-| Role | Impact |
-|:---|:---|
-| **IBM Z Student Ambassador** | Promoting Z Xplore platform, organizing campus hackathons, mentoring peers in enterprise computing |
-| **VP — Z Tech Enterprise Hub** | Co-founded college mainframe community, hosted multi-department orientation (100+ attendees) |
-| **TechXchange Panelist** | Spoke on mainframe career pathways and industry relevance |
-| **Event Organizer & Host** | Organized offline IBM Z events, hackathons, blockchain workshops, IoT sessions |
-| **Technical Speaker** | 2nd speaker in 2-hour IBM Z orientation, multiple tech talks across departments |
-| **Your Big Year Fellow** | Selected for professional development and leadership program (2025) |
-| **Public Speaker** | Debate experience, technical presentations, cross-department outreach |
-| **Industry Exposure** | Prior experience in digital marketing & product promotion |
-
-</div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-## Certifications
-
-<div align="center">
-
-| Domain | Credentials |
-|:---|:---|
-| **IBM Z Mainframe** | zXplore Concepts · zXplore Advanced · PDS1 · PDS2 · JCL2 · USS2 · COBOL · VSAM · Zowe CLI · HTML · Assembler Intro |
-| **Cybersecurity** | Introduction to Cyber Security · SQL Injection Attack · Entry-Level Cybersecurity Training |
-| **Programs & Fellowships** | IBM Z Student Ambassador · IBM Mentee · Your Big Year Fellow |
-
-</div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-## Current Focus
-
-```ini
-[active_pursuits]
-mainframe_modernization   = "Bridging legacy z/OS to hybrid cloud architectures"
-enterprise_architecture   = "Designing for reliability, scale, and zero downtime"
-iot_security              = "Secure device communication and embedded defense"
-ethical_hacking           = "TryHackMe, HackTheBox, CTF challenges"
-distributed_trust         = "Blockchain for enterprise-grade fraud prevention"
-simulation_tools          = "Interactive education systems via Unity"
-
-[next_milestones]
-certification_1           = "CEH — Certified Ethical Hacker"
-certification_2           = "Advanced z/OS Systems Programming"
-contribution              = "Open-source enterprise tool development"
-```
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-## GitHub Analytics
-
-<div align="center">
-
-<!-- Streak Stats (working) -->
-<img width="70%" src="https://streak-stats.demolab.com?user=ShivrajRajasekaran&hide_border=true&background=0D1117&ring=00F7FF&fire=00F7FF&currStreakLabel=00F7FF&sideLabels=c9d1d9&dates=555555&currStreakNum=c9d1d9&sideNums=c9d1d9" alt="GitHub Streak" />
-
-<br/><br/>
-
-<!-- Profile Summary Cards (alternative to broken stats) -->
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ShivrajRajasekaran&theme=github_dark" alt="Stats" />
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ShivrajRajasekaran&theme=github_dark" alt="Repos per Language" />
+<details open>
+<summary><h2>🎖️ Leadership & Community Footprint</h2></summary>
 
 <br/>
 
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ShivrajRajasekaran&theme=github_dark" alt="Most Commit Language" />
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ShivrajRajasekaran&theme=github_dark&utcOffset=5.5" alt="Productive Time" />
+```
+┌────────────────────────────────────────────────────────────────────────────────┐
+│                                                                                │
+│  ┌─ IBM Z STUDENT AMBASSADOR ──────────────────────────────────────────────┐   │
+│  │  • Promoting Z Xplore to 200+ students across campus                   │   │
+│  │  • Organizing hackathons, workshops, orientation sessions               │   │
+│  │  • Mentoring peers in enterprise computing career paths                 │   │
+│  └─────────────────────────────────────────────────────────────────────────┘   │
+│                                                                                │
+│  ┌─ VP — Z TECH ENTERPRISE HUB ───────────────────────────────────────────┐   │
+│  │  • Co-founded the college mainframe community from zero                 │   │
+│  │  • Hosted multi-department IBM Z orientation (100+ attendees)           │   │
+│  │  • Second speaker in 2-hour mainframe community launch event           │   │
+│  │  • Driving IBM Z awareness across all engineering departments           │   │
+│  └─────────────────────────────────────────────────────────────────────────┘   │
+│                                                                                │
+│  ┌─ TECHXCHANGE PANELIST ──────────────────────────────────────────────────┐   │
+│  │  • Spoke on mainframe relevance and student-to-enterprise pipeline      │   │
+│  └─────────────────────────────────────────────────────────────────────────┘   │
+│                                                                                │
+│  ┌─ EVENT ORGANIZER & TECHNICAL SPEAKER ───────────────────────────────────┐   │
+│  │  • Organized offline IBM Z events across multiple departments           │   │
+│  │  • Hosted hackathons, blockchain workshops, IoT security sessions       │   │
+│  │  • Public speaking, debates, cross-department technical talks           │   │
+│  └─────────────────────────────────────────────────────────────────────────┘   │
+│                                                                                │
+│  ┌─ YOUR BIG YEAR FELLOWSHIP (2025) ──────────────────────────────────────┐   │
+│  │  • Selected for professional development and leadership growth          │   │
+│  └─────────────────────────────────────────────────────────────────────────┘   │
+│                                                                                │
+│  ┌─ INDUSTRY EXPOSURE ─────────────────────────────────────────────────────┐   │
+│  │  • Digital marketing & product promotion (post-12th)                    │   │
+│  │  • Zybeak Technologies — In-Plant Training (2025)                       │   │
+│  │  • Arjun Vision Tech — Cybersecurity Internship (2024)                  │   │
+│  └─────────────────────────────────────────────────────────────────────────┘   │
+│                                                                                │
+└────────────────────────────────────────────────────────────────────────────────┘
+```
 
-<br/><br/>
+</details>
 
-<!-- Activity Graph (working) -->
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=ShivrajRajasekaran&bg_color=0d1117&color=00F7FF&line=00F7FF&point=FFFFFF&area=true&area_color=00F7FF&hide_border=true" alt="Contribution Graph" />
+<!-- ═══════════════════════════════════════════════════════ -->
 
-<br/><br/>
+<details open>
+<summary><h2>📜 Verified Credentials</h2></summary>
 
-<!-- Trophies -->
-<img width="95%" src="https://github-profile-trophy.vercel.app/?username=ShivrajRajasekaran&theme=algolia&no-frame=true&column=7&margin-w=10" alt="Trophies" />
+<br/>
 
-</div>
+```python
+credentials = {
+    "IBM_Z_Mainframe": [
+        "zXplore Concepts Badge",
+        "zXplore Advanced Badge",
+        "PDS1", "PDS2", "JCL2", "USS2",
+        "COBOL", "VSAM", "Zowe CLI", "HTML",
+        "IBM Z Assembler (Introduction)",
+    ],
+    
+    "Cybersecurity": [
+        "Introduction to Cyber Security",
+        "SQL Injection Attack",
+        "Entry-Level Cybersecurity Training",
+    ],
+    
+    "Programs_&_Fellowships": [
+        "IBM Z Student Ambassador",
+        "IBM Mentee Program (Bengaluru)",
+        "Your Big Year Fellowship",
+    ],
+}
+```
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+</details>
+
+<!-- ═══════════════════════════════════════════════════════ -->
+
+<details open>
+<summary><h2>🎯 Current Vector</h2></summary>
+
+<br/>
+
+```bash
+$ cat /etc/shivraj/roadmap.conf
+
+# ══════════════════════════════════════════
+# ACTIVE PURSUITS
+# ══════════════════════════════════════════
+
+MAINFRAME_MODERNIZATION="Bridging legacy z/OS → hybrid cloud"
+ENTERPRISE_ARCHITECTURE="Designing for reliability at planetary scale"
+IOT_SECURITY="Secure device comms, embedded defense layers"
+ETHICAL_HACKING="TryHackMe | HackTheBox | CTF challenges"
+BLOCKCHAIN="Enterprise-grade distributed trust systems"
+SIMULATION="Interactive learning engines via Unity"
+
+# ══════════════════════════════════════════
+# NEXT MILESTONES
+# ══════════════════════════════════════════
+
+CERT_TARGET_1="CEH — Certified Ethical Hacker"
+CERT_TARGET_2="Advanced z/OS Systems Programming"
+CONTRIBUTION="Open-source enterprise tooling"
+```
+
+</details>
+
+<!-- ═══════════════════════════════════════════════════════ -->
+
+<details open>
+<summary><h2>📊 System Metrics</h2></summary>
+
+<br/>
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=15&duration=4000&pause=2500&color=00F7FF&center=true&vCenter=true&repeat=true&width=650&lines=I+build+systems+where+failure+is+not+an+option.;Proof+over+polish.+Depth+over+breadth.+Impact+over+noise.;Enterprise+grade.+Competition+tested.+Community+driven." alt="closing" />
+<!-- Streak: proven working -->
+<img width="75%" src="https://streak-stats.demolab.com?user=ShivrajRajasekaran&hide_border=true&border_radius=10&background=0D1117&ring=00F7FF&fire=00F7FF&currStreakLabel=00F7FF&sideLabels=c9d1d9&dates=555555&currStreakNum=c9d1d9&sideNums=c9d1d9" alt="Streak" />
+
+<br/><br/>
+
+<!-- Activity Graph: proven working -->
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=ShivrajRajasekaran&bg_color=0d1117&color=00F7FF&line=00F7FF&point=FFFFFF&area=true&area_color=00F7FF&hide_border=true&custom_title=Contribution%20Signal" alt="Activity" />
+
+<br/><br/>
+
+<!-- Snake animation (will work after first workflow run) -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ShivrajRajasekaran/ShivrajRajasekaran/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ShivrajRajasekaran/ShivrajRajasekaran/output/github-snake.svg" />
+  <img alt="contribution snake" src="https://raw.githubusercontent.com/ShivrajRajasekaran/ShivrajRajasekaran/output/github-snake-dark.svg" width="95%" />
+</picture>
+
+</div>
+
+</details>
+
+<!-- ═══════════════════════════════════════════════════════ -->
+
+<br/>
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=4000&pause=3000&color=00F7FF&center=true&vCenter=true&repeat=true&width=700&lines=%5B+DIRECTIVE+%5D+Proof+over+polish.+Depth+over+breadth.+Impact+over+noise.;%5B+STANDARD+%5D+Enterprise+grade.+Competition+tested.+Community+driven.;%5B+MISSION+%5D+Systems+that+never+go+down.+That's+what+I+build." alt="closing" />
 
 <br/><br/>
 
@@ -353,13 +495,14 @@ contribution              = "Open-source enterprise tool development"
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/Let's_Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shivraj-r-18008b290/)
-[![Portfolio](https://img.shields.io/badge/View_Portfolio-00F7FF?style=for-the-badge&logo=firefoxbrowser&logoColor=black)](https://portfolio-shivraj.web.app/)
-[![Email](https://img.shields.io/badge/Reach_Out-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rshivrajrajasekaran@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shivraj-r-18008b290/)
+&nbsp;&nbsp;
+[![Portfolio](https://img.shields.io/badge/View_Portfolio-00F7FF?style=for-the-badge&logo=firefoxbrowser&logoColor=0d1117)](https://portfolio-shivraj.web.app/)
+&nbsp;&nbsp;
+[![Email](https://img.shields.io/badge/Get_In_Touch-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rshivrajrajasekaran@gmail.com)
 
 <br/>
 
 </div>
 
-<!-- FOOTER WAVE -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:003366,100:00F7FF&height=120&section=footer" width="100%" alt="Footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,50:003366,100:0d1117&height=120&section=footer" width="100%" />
