@@ -229,20 +229,37 @@ Smart India Hackathon 2024 solution for public sector enterprise workflow automa
 
 <h2>IBM Z Journey</h2>
 
+```mermaid
+timeline
+    title From Curiosity to Competition-Proven
+    2023 : IBM zXplore Concepts Badge
+         : IBM zXplore Advanced Badge
+         : PDS1, PDS2, JCL2, USS2, COBOL, VSAM, Zowe CLI, Assembler
+         : First enterprise mainframe exposure
+    2024 : IBM Z Datathon — 3rd Place GLOBALLY (Team Vajra)
+         : Invited to IBM Bangalore Lab
+         : Hands-on ISDL, Power Systems, HA Architecture
+         : Cybersecurity Internship (Arjun Vision Tech)
+    2025 : IBM Z Datathon — 2nd Place NATIONAL (Chennai)
+         : IBM Z Student Ambassador
+         : VP — Z Tech Enterprise Hub
+         : IBM Mentee Program (Bengaluru)
+         : TechXchange Panelist
+         : Your Big Year Fellowship
+```
+
 <div align="center">
 
-```
-  2023                        2024                           2025
-   │                           │                              │
-   ├─ zXplore Concepts        ├─ 🏆 Datathon 3rd GLOBAL     ├─ 🏆 Datathon 2nd NATIONAL
-   ├─ zXplore Advanced        ├─ 🎖️ IBM Bangalore Lab        ├─ IBM Z Ambassador
-   ├─ PDS1, PDS2, JCL2        ├─ ISDL + Power Systems       ├─ VP, Z Tech Hub
-   ├─ USS2, COBOL, VSAM       ├─ Cybersecurity Internship   ├─ TechXchange Panelist
-   ├─ Zowe CLI, Assembler     │                              ├─ IBM Mentee (Bengaluru)
-   │                           │                              ├─ Your Big Year Fellow
-   ▼                           ▼                              ▼
-  LEARN                      COMPETE                        LEAD
-```
+| Year | Milestone | Significance |
+|:---:|:---|:---|
+| **2023** | zXplore Concepts & Advanced Badges | PDS1, PDS2, JCL2, USS2, COBOL, VSAM, Zowe CLI, Assembler |
+| **2024** | **🏆 IBM Z Datathon — 3rd GLOBALLY** | Team Vajra. Real enterprise problem-solving on global stage |
+| **2024** | **🎖️ IBM Bangalore Lab Visit** | Invited post-win. ISDL, Power Systems, HA architecture |
+| **2025** | **🏆 IBM Z Datathon — 2nd NATIONAL** | Sustained performance at national level, Chennai |
+| **2025** | IBM Z Student Ambassador | Mentoring 200+ students in enterprise computing |
+| **2025** | VP — Z Tech Enterprise Hub | Built college mainframe community from zero |
+| **2025** | TechXchange Panelist | Spoke on mainframe relevance & career pathways |
+| **2025** | IBM Mentee + Your Big Year Fellow | Bengaluru mentorship + leadership fellowship |
 
 </div>
 
