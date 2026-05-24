@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=venom&color=0:0d1117,50:0a3300,100:00FF41&height=200&section=header&text=SHIVRAJ&fontSize=80&fontColor=00FF41&fontAlignY=38&desc=Enterprise%20Systems%20%20%E2%80%A2%20%20Cybersecurity%20%20%E2%80%A2%20%20Mainframe%20Engineering&descSize=15&descColor=c9d1d9&descAlignY=58&animation=fadeIn" width="100%" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3000&pause=1500&color=00FF41&center=true&vCenter=true&repeat=true&width=550&height=30&lines=%5B+SYSTEM+%5D+IBM+Z+Student+Ambassador;%5B+RECORD+%5D+Global+3rd+%7C+National+2nd+%7C+Lab+Certified;%5B+STATUS+%5D+Building+What+Others+Depend+On" alt="Typing" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3000&pause=1500&color=00FF41&center=true&vCenter=true&repeat=true&width=600&height=30&lines=%5B+SYSTEM+%5D+IBM+Z+Student+Ambassador+%7C+VP+Z+Tech+Hub;%5B+RECORD+%5D+Global+3rd+%7C+National+2nd+%7C+IBM+Lab+Certified;%5B+STATUS+%5D+Building+What+Others+Depend+On" alt="Typing" />
 
 <br/>
 
@@ -27,18 +27,49 @@ const engineer = {
     positions:  ["IBM Z Student Ambassador", "VP — Z Tech Enterprise Hub", "Your Big Year Fellow"],
     
     record: {
-        "2024": "🏆 IBM Z Datathon — 3rd Place GLOBALLY (Team Vajra)",
-        "2024": "🎖️ Invited to IBM Bangalore Lab (ISDL + Power Systems)",
-        "2025": "🏆 IBM Z Datathon — 2nd Place NATIONALLY (Chennai)",
+        "datathon_2024": "🏆 IBM Z Datathon — 3rd Place GLOBALLY (Team Vajra)",
+        "ibm_lab":       "🎖️ Invited to IBM Bangalore Lab (ISDL + Power Systems)",
+        "datathon_2025": "🏆 IBM Z Datathon — 2nd Place NATIONALLY (Chennai)",
     },
     
     mission: "I build systems where failure is not an option."
 };
 ```
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-<h2>The Story</h2>
+<h2 align="center">⚡ At a Glance</h2>
+
+<div align="center">
+<table>
+<tr>
+<td align="center" width="20%">
+<img src="https://img.shields.io/badge/2-Datathon%20Wins-00FF41?style=for-the-badge&labelColor=0d1117" /><br/>
+<sub>Global 3rd + National 2nd</sub>
+</td>
+<td align="center" width="20%">
+<img src="https://img.shields.io/badge/10+-IBM%20Z%20Badges-054ADA?style=for-the-badge&labelColor=0d1117" /><br/>
+<sub>Concepts to Assembler</sub>
+</td>
+<td align="center" width="20%">
+<img src="https://img.shields.io/badge/200+-Students%20Mentored-FFD700?style=for-the-badge&labelColor=0d1117" /><br/>
+<sub>IBM Z Ambassador</sub>
+</td>
+<td align="center" width="20%">
+<img src="https://img.shields.io/badge/6+-Projects%20Shipped-FF6633?style=for-the-badge&labelColor=0d1117" /><br/>
+<sub>Blockchain · AI · Unity</sub>
+</td>
+<td align="center" width="20%">
+<img src="https://img.shields.io/badge/3-Internships-8247E5?style=for-the-badge&labelColor=0d1117" /><br/>
+<sub>IBM · CyberSec · Tech</sub>
+</td>
+</tr>
+</table>
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+<h2 align="center">📖 The Story</h2>
 
 I started with curiosity — pulling systems apart, figuring out how to put them back together stronger. That curiosity led to **cybersecurity and IoT**, then to **IBM Z and mainframes** — the invisible infrastructure behind every bank, airline, and government system. Built for zero downtime. Still running the world.
 
@@ -48,12 +79,71 @@ Between competitions: **blockchain fraud prevention systems**, **Unity medical s
 
 One direction: **engineering systems where failure is not an option.**
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-<h2>Domains</h2>
+<h2 align="center">🧠 Engineering Philosophy</h2>
 
 <div align="center">
+<table>
+<tr>
+<td align="center" width="33%">
 
+```
+┌─────────────────────┐
+│   SECURE FIRST      │
+│─────────────────────│
+│ Security isn't a    │
+│ feature. It's the   │
+│ architecture.       │
+│                     │
+│ If it can be broken │
+│ it will be broken.  │
+│ Build accordingly.  │
+└─────────────────────┘
+```
+
+</td>
+<td align="center" width="33%">
+
+```
+┌─────────────────────┐
+│   ZERO DOWNTIME     │
+│─────────────────────│
+│ Enterprise systems  │
+│ don't get to crash. │
+│                     │
+│ Design for the      │
+│ failure you haven't │
+│ imagined yet.       │
+└─────────────────────┘
+```
+
+</td>
+<td align="center" width="33%">
+
+```
+┌─────────────────────┐
+│   PROOF > POLISH    │
+│─────────────────────│
+│ Competitions won.   │
+│ Labs visited.       │
+│ Systems built.      │
+│                     │
+│ Talk is cheap.      │
+│ Show the work.      │
+└─────────────────────┘
+```
+
+</td>
+</tr>
+</table>
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+<h2 align="center">⚡ Domains</h2>
+
+<div align="center">
 <table>
 <tr><td align="center" width="25%">
 
@@ -101,12 +191,11 @@ Gamified Learning
 
 </td></tr>
 </table>
-
 </div>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-<h2>Tech Stack</h2>
+<h2 align="center">🛠️ Tech Stack</h2>
 
 <div align="center">
 
@@ -147,12 +236,14 @@ Gamified Learning
 ![Burp](https://img.shields.io/badge/Burp-FF6633?style=flat-square&logo=burpsuite&logoColor=white)
 ![Polygon](https://img.shields.io/badge/Polygon-8247E5?style=flat-square&logo=polygon&logoColor=white)
 ![Hardhat](https://img.shields.io/badge/Hardhat-FFF100?style=flat-square&logo=hardhat&logoColor=black)
+![Nmap](https://img.shields.io/badge/Nmap-0E83CD?style=flat-square&logo=nmap&logoColor=white)
+![Metamask](https://img.shields.io/badge/Metamask-E2761B?style=flat-square&logo=metamask&logoColor=white)
 
 </div>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-<h2>Featured Repositories</h2>
+<h2 align="center">🚀 Featured Repositories</h2>
 
 <div align="center">
 <table>
@@ -160,7 +251,7 @@ Gamified Learning
 <td width="50%" valign="top">
 
 ### [`AI-Driven-Banking-Fraud-Detection`](https://github.com/ShivrajRajasekaran/AI-Driven-Banking-Fraud-Detection-and-Prevention-System)
-**IBM Z Datathon 2024 — 3rd Place Global**
+<img src="https://img.shields.io/badge/IBM%20DATATHON%202024-3rd%20GLOBAL-00FF41?style=flat-square&labelColor=0d1117"/>
 
 AI anomaly detection + Twilio phone verification for real-time banking fraud prevention. Deployed on IBM LinuxONE.
 
@@ -170,7 +261,7 @@ AI anomaly detection + Twilio phone verification for real-time banking fraud pre
 <td width="50%" valign="top">
 
 ### [`Enterprise-Workflow-Choreographer`](https://github.com/ShivrajRajasekaran/Enterprise-Workflow-Choreographer)
-**Agentic AI for Incident Response**
+<img src="https://img.shields.io/badge/AGENTIC%20AI-watsonx.ai-BE95FF?style=flat-square&labelColor=0d1117"/>
 
 IBM watsonx.ai dynamically coordinates ServiceNow, Slack, GitHub, Jira without rigid workflows. AI determines optimal action sequences.
 
@@ -182,7 +273,7 @@ IBM watsonx.ai dynamically coordinates ServiceNow, Slack, GitHub, Jira without r
 <td width="50%" valign="top">
 
 ### [`V-Inference-Verifiable-Network`](https://github.com/ShivrajRajasekaran/V-Inference-Verifiable-Inference-Network-)
-**Decentralized AI with Zero-Knowledge Proofs**
+<img src="https://img.shields.io/badge/BLOCKCHAIN-Zero%20Knowledge%20ML-8247E5?style=flat-square&labelColor=0d1117"/>
 
 ZKML-verified AI inference on Shardeum blockchain. ZK-SNARK proofs for every result. Decentralized worker nodes with staking.
 
@@ -192,7 +283,7 @@ ZKML-verified AI inference on Shardeum blockchain. ZK-SNARK proofs for every res
 <td width="50%" valign="top">
 
 ### [`AI-Powered-Heart-MRI-Classification`](https://github.com/ShivrajRajasekaran/AI-Powered-Heart-MRI-Classification-for-Clinical-Decision-Support)
-**Clinical Decision Support System**
+<img src="https://img.shields.io/badge/MEDICAL%20AI-Clinical%20Support-D14836?style=flat-square&labelColor=0d1117"/>
 
 CNN-based cardiac MRI classification for clinical diagnostics. Deep learning model supporting real-time medical decisions.
 
@@ -204,7 +295,7 @@ CNN-based cardiac MRI classification for clinical diagnostics. Deep learning mod
 <td width="50%" valign="top">
 
 ### [`Master-ForexTrader-MCP`](https://github.com/ShivrajRajasekaran/Master-ForexTrader-MCP)
-**Institutional-Grade Trading Analysis**
+<img src="https://img.shields.io/badge/TRADING-Institutional%20Grade-FFD700?style=flat-square&labelColor=0d1117"/>
 
 20 analysis engines, 22 MCP tools, SMC/ICT-based 7-gate entry system. Kill zones, order flow, risk management, backtesting.
 
@@ -214,20 +305,20 @@ CNN-based cardiac MRI classification for clinical diagnostics. Deep learning mod
 <td width="50%" valign="top">
 
 ### [`SIH-1706-Enterprise-Assistant`](https://github.com/ShivrajRajasekaran/Hackathon-An-Intelligent-Enterprise-Assistant-for-public-sector-SIH-1706-)
-**Intelligent Public Sector Assistant**
+<img src="https://img.shields.io/badge/HACKATHON-Smart%20India%202024-FF6633?style=flat-square&labelColor=0d1117"/>
 
 Smart India Hackathon 2024 solution for public sector enterprise workflow automation and citizen services.
 
-`AI` `Enterprise` `Public Sector` `Hackathon`
+`AI` `Enterprise` `Public Sector` `NLP`
 
 </td>
 </tr>
 </table>
 </div>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-<h2>IBM Z Journey</h2>
+<h2 align="center">🗺️ IBM Z Journey</h2>
 
 ```mermaid
 timeline
@@ -255,6 +346,7 @@ timeline
 | **2023** | zXplore Concepts & Advanced Badges | PDS1, PDS2, JCL2, USS2, COBOL, VSAM, Zowe CLI, Assembler |
 | **2024** | **🏆 IBM Z Datathon — 3rd GLOBALLY** | Team Vajra. Real enterprise problem-solving on global stage |
 | **2024** | **🎖️ IBM Bangalore Lab Visit** | Invited post-win. ISDL, Power Systems, HA architecture |
+| **2024** | Cybersecurity Internship | Arjun Vision Tech — IoT Security, WiFi Deauthentication |
 | **2025** | **🏆 IBM Z Datathon — 2nd NATIONAL** | Sustained performance at national level, Chennai |
 | **2025** | IBM Z Student Ambassador | Mentoring 200+ students in enterprise computing |
 | **2025** | VP — Z Tech Enterprise Hub | Built college mainframe community from zero |
@@ -263,9 +355,9 @@ timeline
 
 </div>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-<h2>Leadership</h2>
+<h2 align="center">🎖️ Leadership & Community</h2>
 
 <div align="center">
 <table>
@@ -301,44 +393,44 @@ Spoke on mainframe career pathways. Technical orientation speaker. Public speaki
 
 </div>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-<h2>Certifications</h2>
+<h2 align="center">📜 Certifications</h2>
 
 <div align="center">
 
-| | Credentials |
+| Domain | Verified Credentials |
 |:---|:---|
-| **IBM Z** | zXplore Concepts · Advanced · PDS1 · PDS2 · JCL2 · USS2 · COBOL · VSAM · Zowe CLI · Assembler Intro |
-| **Security** | Intro to Cybersecurity · SQL Injection Attack · Entry-Level Cybersecurity Training |
+| **IBM Z Mainframe** | zXplore Concepts · Advanced · PDS1 · PDS2 · JCL2 · USS2 · COBOL · VSAM · Zowe CLI · Assembler Intro |
+| **Cybersecurity** | Intro to Cybersecurity · SQL Injection Attack · Entry-Level Cybersecurity Training |
 | **Programs** | IBM Z Ambassador · IBM Mentee · Your Big Year Fellow |
 
 </div>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-<h2>Current Vector</h2>
+<h2 align="center">🎯 Current Vector</h2>
 
 ```
-┌─────────────────────────────────────────────────────────────────┐
-│                                                                 │
-│   NOW        Mainframe Modernization · Enterprise Architecture  │
-│              IoT Security · Ethical Hacking · Blockchain DApps  │
-│                                                                 │
-│   NEXT       CEH Certification                                  │
-│              Advanced z/OS Systems Programming                   │
-│              Open-source enterprise contributions                │
-│                                                                 │
-│   TARGET     Mainframe Engineer / Modernization Architect       │
-│              Enterprise Security Engineer                        │
-│              Secure Systems Developer                            │
-│                                                                 │
-└─────────────────────────────────────────────────────────────────┘
+┌─────────────────────────────────────────────────────────────────────┐
+│                                                                     │
+│   NOW        Mainframe Modernization · Enterprise Architecture      │
+│              IoT Security · Ethical Hacking · Blockchain DApps      │
+│                                                                     │
+│   NEXT       CEH Certification                                      │
+│              Advanced z/OS Systems Programming                       │
+│              Open-source enterprise contributions                    │
+│                                                                     │
+│   TARGET     Mainframe Engineer / Modernization Architect           │
+│              Enterprise Security Engineer                            │
+│              Secure Systems Developer                                │
+│                                                                     │
+└─────────────────────────────────────────────────────────────────────┘
 ```
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-<h2>Activity</h2>
+<h2 align="center">📊 Activity</h2>
 
 <div align="center">
 
@@ -350,15 +442,46 @@ Spoke on mainframe career pathways. Technical orientation speaker. Public speaki
 
 </div>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+<h2 align="center">💡 Why Work With Me</h2>
+
+<div align="center">
+<table>
+<tr>
+<td align="center" width="25%">
+<h3>🏆</h3>
+<strong>Competition-Tested</strong><br/>
+<sub>Global 3rd. National 2nd. IBM Lab certified. Not just coursework — battle-tested under pressure.</sub>
+</td>
+<td align="center" width="25%">
+<h3>🖥️</h3>
+<strong>Enterprise DNA</strong><br/>
+<sub>z/OS, COBOL, JCL at 20. Most engineers never touch mainframes. I'm already building on them.</sub>
+</td>
+<td align="center" width="25%">
+<h3>🎤</h3>
+<strong>Leader + Builder</strong><br/>
+<sub>Ambassador. VP. Panelist. Event host. I don't just code — I build teams and communities.</sub>
+</td>
+<td align="center" width="25%">
+<h3>🔐</h3>
+<strong>Security Mindset</strong><br/>
+<sub>Attacker + defender thinking. IoT exploits, blockchain trust, enterprise hardening — from day one.</sub>
+</td>
+</tr>
+</table>
+</div>
+
+<br/>
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=13&duration=4000&pause=3000&color=00FF41&center=true&vCenter=true&repeat=true&width=450&height=25&lines=Proof+over+polish.+Depth+over+breadth.+Impact+over+noise." alt="motto" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=13&duration=4000&pause=3000&color=00FF41&center=true&vCenter=true&repeat=true&width=500&height=25&lines=Proof+over+polish.+Depth+over+breadth.+Impact+over+noise." alt="motto" />
 
 <br/><br/>
 
-**Building enterprise systems that are secure, scalable, and always on.**
+### **Building enterprise systems that are secure, scalable, and always on.**
 
 <br/>
 
